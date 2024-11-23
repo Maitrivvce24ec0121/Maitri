@@ -1,0 +1,12 @@
+.card{
+    width: 100px;
+    height: 200px;
+    object-fit: cover;
+}
+.card {
+    margin: 1cm;
+    border-radius: 0.5cm !important;
+}
+.card {
+    border-radius: 0.5cm !important;
+}
